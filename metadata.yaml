@@ -1,10 +1,16 @@
 _repo: The-Sack-of-Monte-Carlo-An-Adventure-of-To-day_50515
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50515-h/images/cover.jpg
 creator:
   author:
     agent_name: Frith, Walter
     gutenberg_agent_id: '45952'
     url: http://www.gutenberg.org/2009/agents/45952
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50515#The-Sack-of-Monte-Carlo-An-Adventure-of-To-day
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
